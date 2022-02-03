@@ -69,3 +69,9 @@ main > .tagline {
 	width: 2.65rem;
 	height: 2.65rem;
 }
+
+.centerImage
+{
+ text-align:center;
+ display:block;
+}
